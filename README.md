@@ -1,9 +1,20 @@
-[![CircleCI](https://circleci.com/gh/actiniumio/allspark.svg?style=svg)](https://circleci.com/gh/actiniumio/allspark)
-[![Updates](https://pyup.io/repos/github/actiniumio/allspark/shield.svg)](https://pyup.io/repos/github/actiniumio/allspark/)
-[![Python 3](https://pyup.io/repos/github/actiniumio/allspark/python-3-shield.svg)](https://pyup.io/repos/github/actiniumio/allspark/)
 
-[![Chat with us on Slack](https://img.shields.io/badge/chat%20with%20us%20on-Slack-blue.svg)](https://actiniumio.slack.com)
+[![Chat with us on Slack](https://img.shields.io/badge/chat%20with%20us%20on-Slack-blue.svg)](https://lightpharosio.slack.com)
 
-# Allspark
+# Neosparks
 
-Docker based developer toolbox, see the [Documentation](https://docs.actinium.io/) for informations.
+Neosparks is a fork of the allspark project. Neosparks has been created in order to be realigned with the intial product roadmap and design.
+Neosparks as allspark still provides a set of Docker based developer toolbox. Documentations will be updated in next releases.
+
+Neosparks is based one two products:
+
+The IaaS agnostic:
+DevFactory hosted on any virtual environment within Docker layer and deployed via ansible playbooks (cuurent release).
+Automated cloud mechanism will be embedded for improving elasticity and scalability of the product.
+
+Decepticons
+DevFactory based on K8s hosting. Allowing elasticity and leverage the hosting agnosticity.
+
+
+Documentations:
+Part of the documentation in allspark will be copied in the neosparks projects. 
