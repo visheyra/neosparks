@@ -17,4 +17,4 @@ DevFactory based on K8s hosting. Allowing elasticity and leverage the hosting ag
 
 
 Documentations:
-Part of the documentation in allspark will be copied in the neosparks projects. 
+Part of the documentation from the [allspark](https://github.com/actiniumio/allspark) repository will be copied in the neosparks projects. 
